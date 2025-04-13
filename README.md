@@ -93,8 +93,8 @@ graph TD
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sys_mon.git
-cd sys_mon
+git clone https://github.com/muhamedanwer/Anwer-s-Eye
+cd Anwer-s-Eye
 ```
 
 2. Install dependencies:
